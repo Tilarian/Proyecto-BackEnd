@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"title": "Monitor ViewSonic VA2233-H 22″",
+		"category": "Monitores",
+		"price": 120,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 14
+	},
+	{
+		"id": 2,
+		"title": "Monitor ASUS VG248QG 24″",
+		"category": "Monitores",
+		"price": 275,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 20
+	},
+	{
+		"id": 3,
+		"title": "Monitor Acer Vg270 27″ IPS 165hz",
+		"category": "Monitores",
+		"price": 300,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 8
+	},
+	{
+		"id": 4,
+		"title": "Monitor Viewsonic VX3218C-2K 32″",
+		"category": "Monitores",
+		"price": 465,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 3
+	},
+	{
+		"id": 5,
+		"title": "Notebook Gamer ASUS TUF Gaming F15",
+		"category": "Notebooks",
+		"price": 899,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 9
+	},
+	{
+		"id": 6,
+		"title": "Notebook ASUS Vivobook Go 15",
+		"category": "Notebooks",
+		"price": 530,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 9
+	},
+	{
+		"id": 7,
+		"title": "AMD Ryzen 3 3200G con Radeon Vega 8",
+		"category": "Procesadores",
+		"price": 100,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 21
+	},
+	{
+		"id": 8,
+		"title": "CPU AMD Ryzen 7 7700 AM5",
+		"category": "Procesadores",
+		"price": 520,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 5
+	},
+	{
+		"id": 9,
+		"title": "CPU Intel Core i7 12700K",
+		"category": "Procesadores",
+		"price": 590,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 8
+	},
+	{
+		"id": 10,
+		"title": "Teclado Logitech G915 TKL inalámbrico",
+		"category": "Teclados",
+		"price": 280,
+		"thumbnail": "Sin imagen",
+		"code": "abc123",
+		"stock": 21
+	}
+]
